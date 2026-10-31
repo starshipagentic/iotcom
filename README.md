@@ -1,2 +1,3 @@
 # iotcom
-Placeholder repo for the iotcom project
+
+Placeholder package. The `iotcom` name is reserved for a future project.
